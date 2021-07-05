@@ -3,7 +3,6 @@ run
 data.csv
 data2.csv
 iex_config.py
-nesapi_config.py
-news.py
+newapi_config.py
 polygon_config.py
 quandl_config.py
